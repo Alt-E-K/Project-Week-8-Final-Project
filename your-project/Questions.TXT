@@ -1,0 +1,15 @@
+Questions for the topic?
+
+Improving streaming platforms, in the face of higher consumption.
+Collaborative filtering is not enough, deeper underlying tendencies that might not be shared. 
+People might like the same things for very different reasons.Which implies the rest of their tastes don't
+need to be shared.
+
+-is there a better way to recomend movies?
+-is there a better way to classify movies than just genre (change the catalog order)?
+think of the problem of percieved or marketed genre vs what the actual movie is about.
+-have movies changed in recent years? is this related to political/economic moment?
+-which ones are the most sucessful topics? how can this help investment in new projects?-->budget and revenue
+
+
+
